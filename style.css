@@ -19,7 +19,7 @@ body{
 }
 
 .music-container{
-    background-color: rgba(19, 2, 2, 0.219);
+    background-color: black;
     border-radius: 15px;
     box-shadow: wheat;
     display: flex;
@@ -92,17 +92,18 @@ body{
 }
 
 .action-btn-big {
-    color: #cdc2c0;
+    color: black;
     font-size: 30px;
 }
 
 .action-btn:focus {
     outline: 0;
+    
 
 }
 
 .music-info {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: red;
     border-radius: 15px 15px 0 0;
     position: absolute;
     top: 0;
